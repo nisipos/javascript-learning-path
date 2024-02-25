@@ -7,17 +7,17 @@
 
 **All About Variables**
  - [ ] Variable Declarations
-	 -- **var, let, const**
+ 	- [ ] **var, let, const**
  - [ ] Hoisting
  - [ ] Variable Naming Rules
  - [ ]  Variable Scopes
-	 -- **Block, Function, Global**
+ 	- [ ] **Block, Function, Global**
 	 
  **Data Types**
  - [ ] Primitive Types
-	 -- **string, undefined, number, bigint, boolean, null**
+ 	- [ ] **string, undefined, number, bigint, boolean, null**
  - [ ] Object
-	 -- **Built-in Objects
+ 	- [ ] **Built-in Objects**
 - [ ] typeof operator
 
 **Type Casting**
@@ -29,11 +29,11 @@
 - [ ] Structured Data
 - [ ] JSON
 - [ ] Indexed Collections
-	-- **Arrays**
+	- [ ] **Arrays**
 
 **Equality Comparisons**
 - [ ] Value Comparison Operators
-	-- **==, ===, Object.is**
+	- [ ] **==. ===. Object.is**
 
 **Loops and Iterations**
 - [ ] for statement
